@@ -1,0 +1,14 @@
+# STM32CubeIDE build outputs
+/Debug/
+/Release/
+/.build/
+
+# Eclipse workspace state
+/.metadata/
+
+# Temporary editor and operating system files
+*.tmp
+*.bak
+*~
+Thumbs.db
+.DS_Store
